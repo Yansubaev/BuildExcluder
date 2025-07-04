@@ -1,0 +1,16 @@
+{
+    "entries": [
+        {
+            "assetPath": "Assets/StreamingAssets/agconnect-services.json",
+            "defines": [
+                "STORE_APPGALLERY"
+            ]
+        },
+        {
+            "assetPath": "Assets/Huawei",
+            "defines": [
+                "STORE_APPGALLERY"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "com.yans.buildexcluder",
+    "displayName": "Build Excluder",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "description": "A Unity Editor tool for conditionally including/excluding assets in builds based on define symbols. Features UI, automatic restoration, and safety system.",
+    "documentationUrl": "https://github.com/Yansubaev/BuildExcluder.git#readme",
+    "changelogUrl": "https://github.com/Yansubaev/BuildExcluder/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/Yansubaev/BuildExcluder/blob/main/LICENSE",
+    "author": {
+        "name": "Denis Iansubaev",
+        "email": "iansubd@gmail.com",
+        "url": "https://github.com/Yansubaev"
+    },
+    "keywords": [
+        "build",
+        "editor",
+        "exclude",
+        "define",
+        "unitypackage",
+        "conditional"
+    ],
+    "license": "MIT",
+    "dependencies": {}
+}
