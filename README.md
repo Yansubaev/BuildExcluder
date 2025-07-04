@@ -2,6 +2,25 @@
 
 A full-featured editor tool for conditionally including folders and files in a Unity build based on specified define symbols.
 
+## 📦 Installation
+
+### Unity Package Manager (UPM)
+
+You can install Build Excluder directly from GitHub using the Unity Package Manager:
+
+1. Open your Unity project.
+2. Go to **Window → Package Manager**.
+3. Click the **+** button (top left) and select **Add package from Git URL...**
+4. Enter:
+
+   ```
+   https://github.com/Yansubaev/BuildExcluder.git
+   ```
+
+5. Click **Add**. The package will appear in your Packages list as `Build Excluder`.
+
+For more details, see the [official Unity documentation](https://docs.unity3d.com/Manual/upm-ui-giturl.html).
+
 ## 🎯 Main Features
 
 - **Conditional asset inclusion** in the build based on define symbols
